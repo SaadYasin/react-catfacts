@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa4e085c.css",
+    "main.js": "/static/js/main.50a46c98.js",
+    "static/media/cats-pattern001.jpg": "/static/media/cats-pattern001.d8f6c6a9f61214cbfa19.jpg",
+    "index.html": "/index.html",
+    "main.fa4e085c.css.map": "/static/css/main.fa4e085c.css.map",
+    "main.50a46c98.js.map": "/static/js/main.50a46c98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa4e085c.css",
+    "static/js/main.50a46c98.js"
+  ]
+}
